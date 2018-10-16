@@ -12,7 +12,7 @@ By purchasing, installing, copying, or otherwise using the SOFTWARE DEVELOPMENT 
 If you do not agree to any of the terms and conditions of this AGREEMENT or if you do not have the legal authority to bind the business and/or entity you are representing to any of the terms and conditions of this AGREEMENT, DO NOT INSTALL, COPY, USE, EVALUATE, OR REPLICATE IN ANY MANNER, ANY PART, FILE OR PORTION OF THE SOFTWARE DEVELOPMENT PRODUCT(S). 
 All SOFTWARE DEVELOPMENT PRODUCT(S) is licensed, not sold. 
 
-1. GRANT OF LICENSE.
+1. GRANT OF LICEN
 
 Subject to all the terms and conditions of this AGREEMENT, DEVEXPRESS grants LICENSEE a non-exclusive, non-transferable license to install and use the SOFTWARE DEVELOPMENT PRODUCT(S) included in this distribution as authorized in sections 1.1 through 1.4 below:
 
